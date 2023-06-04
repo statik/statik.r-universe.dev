@@ -1,18 +1,6 @@
 [
     {
-        "package": "goodpress",
-        "url": "https://github.com/maelle/goodpress"
-    },
-    {
-        "package": "cransays",
-        "url": "https://github.com/lockedata/cransays"
-    },
-    {
-        "package": "roblog",
-        "url": "https://github.com/ropenscilabs/roblog"
-    },
-    {
-        "package": "rodev",
-        "url": "https://github.com/ropenscilabs/rodev"
+        "package": "dora",
+        "url": "https://github.com/statik/dora"
     }
 ]
